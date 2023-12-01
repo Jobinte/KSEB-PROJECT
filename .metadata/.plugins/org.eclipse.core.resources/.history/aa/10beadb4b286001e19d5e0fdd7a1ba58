@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<div class="login">
+<h1>Login</h1>
+<form action="#" name="login" id="login"  method="post" >
+<input type="text" name="userName" placeholder="User Name" /> <br> <br>
+<input type="password" name="pass" placeholder="Password " /> <br> <br>
+
+  <select name="userID" id="userID">
+  <option>select user id </option>
+    <option value="admin">Administrator</option>
+    <option value="lineman">lineman</option>
+    <option value="executive engineer">executive engineer</option>
+    <option value="matireal dept manager">matireal dept manager</option>
+  </select>
+  <br><br>
+</form>
+</div>
+</body>
+</html>

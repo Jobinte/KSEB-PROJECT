@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>admin</title>
+<link href="css/admin.css" rel="stylesheet" type="text/css" /> 
+</head>
+<body>
+
+<div class="dropdown">
+  <button class="dropbtn">complaint</button>
+  <div class="dropdown-content">
+    <a href="#"> Register complaint </a>
+    <a href="#"> editcomplaint </a>
+    <a href="#"> complaint status</a>
+  </div>
+</div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+body{
+	margin:0;
+	padding:0;
+	 background-image: url("../images/im8.jpg");
+	 font-family:'arial';
+	  
+}
+#heading {
+	color:#fff;
+	font:Times new roman;
+	
+}
+.login{
+	width:350px;
+	height:auto;
+	
+	padding:20px;
+	border-radius:15px;
+	margin-top:150px;
+	margin-left:250px;
+	
+	border:2px solid ;
+	border-color:#fff;
+	text-align:center;
+}
+

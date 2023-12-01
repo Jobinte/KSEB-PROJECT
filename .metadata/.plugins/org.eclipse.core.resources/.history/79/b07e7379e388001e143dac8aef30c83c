@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>complaint registration</title>
+
+<link href="css/complaintReg.css" rel="stylesheet" type="text/css" />
+
+
+
+</head>
+<body>
+	<div class="complaintReg">
+		<h1 id="heading">New Complaint Registration</h1>
+
+		<form action="#" name="complaintReg" id="complaintReg" method="post">
+			Date <input type="date" /> 
+			Consumer Name<input type="text" name="consumerName" placeholder="Enter Consumer Name" /> <br> <br> 
+			Phone Numaber<inpu type="text" name="phone" placeholder="enter Phone Numaber " /> <br> <br>
+			Location <input type="text" name="location" placeholder="Enter Location " /> <br> <br> 
+			Post Numaber<inpu type="text" name="post" placeholder="enter Post Numaber  " /> <br> <br>
+			complaint<textarea rows="5" cols="5" name="complaint" type="text" placeholder="Enter Complaint"></textarea>
+			
+			</form>
+			</div>
+			</body>
+			</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>New Complaint Registration</title>
+</head>
+<body>
+    <h1>New Complaint Registration</h1>
+   <input type="date">
+   
+    <form id="complaintForm">
+        <label for="date">Date:</label>
+        <input type="date" id="date" name="date" required><br><br>
+
+        <label for="consumerName">Consumer Name:</label>
+        <input type="text" id="consumerName" name="consumerName" required><br><br>
+
+        <label for="phoneNo">Phone No:</label>
+        <input type="tel" id="phoneNo" name="phoneNo" required><br><br>
+
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" required><br><br>
+
+        <label for="postNo">Post No:</label>
+        <input type="text" id="postNo" name="postNo" required><br><br>
+
+        <label for="complaint">Complaint:</label>
+        <textarea id="complaint" name="complaint" required></textarea><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+
+  
+</body>
+</html>

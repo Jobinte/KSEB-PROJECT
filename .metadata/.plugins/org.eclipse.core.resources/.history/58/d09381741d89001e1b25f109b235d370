@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>New Work Allocation </title>
+<link href="css/workAllocation.css" rel="stylesheet" type="text/css" /> 
+</head>
+<body>
+
+<div class="wrokAllocation">
+		<h1 id="heading"> New Work Allocation </h1>
+
+		<form action="#" name="workAllocation" id="workAllocation" method="post">
+			<div class="demo">
+			Date <input type="date" /> <br> <br>
+			
+			<input type="submit" value="save" />
+			
+				</div>
+			</form>
+			</div>
+</body>
+</html>

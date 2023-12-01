@@ -1,0 +1,25 @@
+body{
+	margin:0;
+	padding:0;
+	 background-color:green;
+	 font-family:'arial';
+	  
+}
+#heading {
+	color:black;
+	font:Times new roman;
+	
+}
+.complaintReg{
+	width:350px;
+	height:auto;
+	
+	padding:20px;
+	margin: 220px 450px 50px 550px;
+	border-radius:15px;
+	 border : 2px solid;
+	
+	
+	border-color:#fff;
+	text-align:center;
+}

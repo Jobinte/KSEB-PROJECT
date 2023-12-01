@@ -1,0 +1,7 @@
+body{
+	margin:0;
+	padding:0;
+	 background: url("im8.jpg");
+	 font-family:'arial';
+	  
+}

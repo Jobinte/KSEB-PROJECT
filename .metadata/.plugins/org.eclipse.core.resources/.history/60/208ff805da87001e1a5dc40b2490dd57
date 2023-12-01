@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Order List</title>
+<style>
+body {
+	font-family: Arial, sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td {
+	border: 1px solid #dddddd;
+	text-align: left;
+	padding: 8px;
+}
+
+th {
+	background-color: #dddddd;
+}
+
+tr:nth-child(even) {
+	background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+	<h2>Order List</h2>
+	<table>
+		<tr>
+			<th>Order List ID</th>
+			<th>Order Description</th>
+			<th>Item Number</th>
+			<th>Material ID</th>
+			<th>Material Description</th>
+			<th>Building ID</th>
+			<th>Building Name</th>
+			<th>Building Address</th>
+			<th>Current Quantity</th>
+			<th>Previous Quantity</th>
+			<th>Quantity Difference</th>
+			<th>Order Comment</th>
+		</tr>
+		<tr>
+			<td>XXXX</td>
+			<td>XXXX</td>
+			<td>1</td>
+			<td>2</td>
+			<td>XXXXX</td>
+			<td>XXXX</td>
+			<td>XXXX</td>
+			<td>XXXX</td>
+			<td>8</td>
+			<td>XXXX</td>
+			<td>-2</td>
+			<td>XXXX</td>
+		</tr>
+		<!-- Add more rows for additional order items -->
+	</table>
+</body>
+</html>
